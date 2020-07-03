@@ -9,7 +9,7 @@ My primary goal in this data challenge was to **predict the price of a given lis
 In all, this was a **supervised learning regression problem**, where my primary goal was to predict the price of listings.
 
 ## Getting the Data and Using the Notebook
-The data can be found [here](http://insideairbnb.com/get-the-data.html).
+[The data can be found here](http://insideairbnb.com/get-the-data.html).
 More specifically, I looked at Amsterdam listings that were recorded as of August 8th, 2019.
 
 Packages include:
